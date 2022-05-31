@@ -1,7 +1,7 @@
 <h1 align="center">dvf</h1>
 
 <p align="center">
-I like Python, Bitcoin and Extra Salt.
+Experienced full stack blockchain developer.
 </p>
 <p align="center">
   <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=dvf&show_icons=true">
