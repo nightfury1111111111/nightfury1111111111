@@ -16,3 +16,7 @@ Experienced full stack blockchain & AI developer.
   - AI (Tendermint)
 </p>
 
+<p align="center" color="blue">
+Solana/Terra/Juno/Ethereum/Binance/Harmony/Cardano/Avalanche
+
+</p>
