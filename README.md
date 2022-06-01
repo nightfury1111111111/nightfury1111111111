@@ -2,6 +2,7 @@
 
 <p align="center">
 Experienced full stack blockchain & AI developer.
+  Solana/Terra/Juno/Ethereum/Binance/Harmony/Cardano/Avalanche
   
   - have rich experience in Defi and NFT projects(smart contract/web3 integration/build frontend)
   
@@ -14,8 +15,4 @@ Experienced full stack blockchain & AI developer.
   - building new chain using Polkadot and Cosmos
   
   - AI (Tendermint)
-</p>
-
-<p color="coral">
-Solana/Terra/Juno/Ethereum/Binance/Harmony/Cardano/Avalanche
 </p>
