@@ -17,8 +17,6 @@ Experienced full stack blockchain & AI developer.
   - AI (Tendermint)
 </p>
 
-<h1 align="center">dvf</h1>
-
 <p align="center">
   <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=nightfury1111111111&show_icons=true">
 </p>
