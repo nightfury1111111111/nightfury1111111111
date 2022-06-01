@@ -2,9 +2,9 @@
 
 <p align="center">
 Experienced full stack blockchain & AI developer.
-  Solana/Terra/Juno/Ethereum/Binance/Harmony/Cardano/Avalanche
-  
+
   - have rich experience in Defi and NFT projects(smart contract/web3 integration/build frontend)
+      - Solana/Terra/Juno/Ethereum/Binance/Harmony/Cardano/Avalanche
   
       - Rust(Cosmwasm/Anchor)
       - Go
