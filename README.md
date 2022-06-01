@@ -4,9 +4,12 @@
 Experienced full stack blockchain & AI developer.
   
   - have rich experience in Defi and NFT projects(smart contract/web3 integration/build frontend)
-      Rust(Cosmwasm/Anchor)
-      Solidity
-      React/Node.JS
+  
+      - Rust(Cosmwasm/Anchor)
+      - Go
+      - Solidity
+      - React/Node.JS
+      - Python
   
   - building new chain using Polkadot and Cosmos
   
