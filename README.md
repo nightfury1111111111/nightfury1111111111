@@ -14,7 +14,7 @@ Experienced full stack blockchain & AI developer.
   
   - building new chain using Polkadot and Cosmos
   
-  - AI (Tendermint)
+  - AI (TensorFlow)
 </p>
 
 <p align="center">
