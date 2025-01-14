@@ -19,13 +19,17 @@ Experienced full stack blockchain & AI developer.
 
 <p align="center">
   
-Lumos Exchange
+Senior Rust Developer with 5 Years Full-Stack Blockchain, and 8 Years Professional Web Development 
 
+Previously experience at:
+- Shaga 
+- Lumos Exchange 
+- eMENAVERSE
+- Ecotoken Inc
 
-Ecotoken
+Multichain experience across Solana, Cosmos, NEAR and EVM (Ethereum, Arbitrium, Optimism).
 
-
-Shaga
+Proficient in building…
 
 </p>
 <p align="center">
